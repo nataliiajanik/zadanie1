@@ -1,1 +1,10 @@
-Hello World
+// tytuł
+# Hello Valerie
+
+//nagłówek
+## Zadanie domowe
+1. Posiadanie git, githuba, configa
+2. Zrobienie repo
+3. Sklonowanie repo: `git clone <repo>`
+4. Dodanie README.md: `git add README.md`
+5. Zrobienie commita: `git commit -m "Initial commit"`
