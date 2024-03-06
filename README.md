@@ -1,4 +1,4 @@
-# Hello Valerie
+# Hello World
 
 ## Zadanie domowe
 1. Posiadanie git, githuba, configa
