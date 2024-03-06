@@ -1,7 +1,5 @@
-// tytuł
 # Hello Valerie
 
-//nagłówek
 ## Zadanie domowe
 1. Posiadanie git, githuba, configa
 2. Zrobienie repo
